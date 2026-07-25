@@ -30,3 +30,4 @@ dist-ssr
 .next
 out
 build
+config.bat
